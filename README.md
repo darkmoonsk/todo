@@ -1,6 +1,9 @@
 # My Tasks
 
-Um todo list simples feito com React.
+Um todo list simples, implementando um crud feito com React.
+
+### Acesse diretamente online usando o link abaixo:
+https://todo-two-psi.vercel.app/
 
 ## Script de inicialização
 
