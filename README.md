@@ -1,9 +1,11 @@
 # My Tasks
 
 Um todo list simples, implementando um crud feito com React.
-![todo_github_image](https://user-images.githubusercontent.com/101902194/188208368-130c05cd-806d-4176-b429-8dac82a69faf.png)
 
 ### Acesse diretamente online usando o link: https://mytasks.brunosouzadev.com/
+![todo_github_image](https://user-images.githubusercontent.com/101902194/188208368-130c05cd-806d-4176-b429-8dac82a69faf.png)
+
+
 
 ## Script de inicialização
 
